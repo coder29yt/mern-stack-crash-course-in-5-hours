@@ -1,0 +1,24 @@
+#mainContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 80px;
+    margin-bottom: 80px;
+
+}
+
+#resDiv {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.068);
+    padding: 20px;
+    font-size: 13px
+}
+
+.dynamicValues {
+    color: #8395A7;
+    font-family: monospace;
+    margin-left: 3px;
+}
